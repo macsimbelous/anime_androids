@@ -1,0 +1,11 @@
+# Categories of portrait sets used in empire design view.
+# Portrait sets are listed in portrait_sets database.
+
+wulfian_sample = {
+	name = Sample
+	
+	sets = {
+		wulfian_sample_set
+	}
+}
+
