@@ -1,11 +1,11 @@
 # Categories of portrait sets used in empire design view.
 # Portrait sets are listed in portrait_sets database.
 
-wulfian_sample = {
-	name = Sample
+anime_androids = {
+	name = anime_androids_name
 	
 	sets = {
-		wulfian_sample_set
+		anime_androids_set
 	}
 }
 

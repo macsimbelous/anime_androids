@@ -28,7 +28,7 @@ portraits = {
 }
 
 portrait_groups = {
-	wulfian_sample = {
+	anime_androids = {
 		default = anime_android_01
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {

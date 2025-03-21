@@ -1,17 +1,17 @@
-wulfian_sample_set = {
+anime_androids_set = {
 	species_class = MACHINE
 	#possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
 	#archetype = BIOLOGICAL
 	spawn_enabled = yes
 	randomized = yes
 	portraits = {
-		"wulfian_sample"
+		"anime_androids"
 		
 	}
 
 	# Just in case.
 	non_randomized_portraits = {
-		"wulfian_sample"
+		"anime_androids"
 	}
 	
 	graphical_culture = humanoid_01
