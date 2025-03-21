@@ -12,6 +12,19 @@ portraits = {
 	anime_android_11 = { texturefile = "gfx/models/portraits/anime_android_11.dds"  }
 	anime_android_12 = { texturefile = "gfx/models/portraits/anime_android_12.dds"  }
 	anime_android_13 = { texturefile = "gfx/models/portraits/anime_android_13.dds"  }
+	anime_android_14 = { texturefile = "gfx/models/portraits/anime_android_14.dds"  }
+	anime_android_15 = { texturefile = "gfx/models/portraits/anime_android_15.dds"  }
+	anime_android_16 = { texturefile = "gfx/models/portraits/anime_android_16.dds"  }
+	anime_android_17 = { texturefile = "gfx/models/portraits/anime_android_17.dds"  }
+	anime_android_18 = { texturefile = "gfx/models/portraits/anime_android_18.dds"  }
+	anime_android_19 = { texturefile = "gfx/models/portraits/anime_android_19.dds"  }
+	anime_android_20 = { texturefile = "gfx/models/portraits/anime_android_20.dds"  }
+	anime_android_21 = { texturefile = "gfx/models/portraits/anime_android_21.dds"  }
+	anime_android_22 = { texturefile = "gfx/models/portraits/anime_android_22.dds"  }
+	anime_android_23 = { texturefile = "gfx/models/portraits/anime_android_23.dds"  }
+	anime_android_24 = { texturefile = "gfx/models/portraits/anime_android_24.dds"  }
+	anime_android_25 = { texturefile = "gfx/models/portraits/anime_android_25.dds"  }
+	anime_android_26 = { texturefile = "gfx/models/portraits/anime_android_26.dds"  }
 }
 
 portrait_groups = {
@@ -40,6 +53,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 				
 				}
 			}
@@ -66,6 +92,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 
 
 				}
@@ -90,6 +129,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 		
 				}
 			}		
@@ -111,6 +163,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 
 				}
 			}			
@@ -137,6 +202,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 		
 				}
 			}		
@@ -159,6 +237,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 
 				}
 			}			
@@ -188,6 +279,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 		
 				}
 			}	
@@ -213,6 +317,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 
 				}
 			}			
@@ -238,6 +355,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 			
 				}
 			}	
@@ -263,6 +393,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 
 				}
 			}			
@@ -288,6 +431,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 		
 				}
 			}	
@@ -313,6 +469,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 
 				}
 			}
@@ -340,6 +509,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 			
 				}
 			}	
@@ -367,6 +549,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 
 				}
 			}			
@@ -395,6 +590,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 	
 				}
 			}	
@@ -419,6 +627,19 @@ portrait_groups = {
 					anime_android_11
 					anime_android_12
 					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
 
 				}
 			}			
