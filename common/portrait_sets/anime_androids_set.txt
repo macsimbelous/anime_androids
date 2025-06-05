@@ -19,3 +19,34 @@ anime_androids_set = {
 	move_pop_sound_effect = "moving_pop_confirmation"
 
 }
+humans = {
+	species_class = HUM
+
+	portraits = {
+		#"human"
+		#"human_legacy"
+		# added
+		"anime_humanoids"
+	}
+
+	# These should not be used for randomly generated species
+	non_randomized_portraits = {
+		#"human"
+		#"human_legacy"
+		
+		# added
+		"anime_humanoids"
+	}
+}
+
+machines = {
+	species_class = MACHINE
+
+	portraits = {
+		"anime_androids"
+	}
+
+	non_randomized_portraits = {
+		"anime_androids"
+	}
+}
