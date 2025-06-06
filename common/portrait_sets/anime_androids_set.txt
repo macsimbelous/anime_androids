@@ -23,18 +23,9 @@ humans = {
 	species_class = HUM
 
 	portraits = {
-		#"human"
-		#"human_legacy"
-		# added
 		"anime_humanoids"
 	}
-
-	# These should not be used for randomly generated species
 	non_randomized_portraits = {
-		#"human"
-		#"human_legacy"
-		
-		# added
 		"anime_humanoids"
 	}
 }
